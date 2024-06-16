@@ -75,6 +75,15 @@ color: white;
 	height: 400px;
 	text-align: center;
 }
+.column33{ 
+	background-color:darkblue;
+	color: white;
+	float:left;
+	width: 33.33%;
+	padding-top: 20px; 	
+	height: 400px;
+	text-align: center;
+}
 
 .about_bg_img{
 	background-image: url('image/bg1.jpg');
